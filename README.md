@@ -161,6 +161,8 @@ Note: For both functions, the transformations are applied in the order of reflec
 
 # Units 9 and 10: EXPONENTIAL & LOGARITHMIC FUNCTIONS
 
+   [example video][https://www.youtube.com/watch?v=H46QVUdbBn]
+
  Exponential Form & Logarithmic Form
 
  Identify the characteristics and graph the following functions.
