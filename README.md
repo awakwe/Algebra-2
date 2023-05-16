@@ -238,6 +238,56 @@ By plotting these points and considering the vertical asymptote at $x = 0$, we c
 
 Remember to label the axes and indicate any asymptotes or intercepts on the graph.
 
+
+
+
+ Write an exponential function for the graph that passes through the given points. Then determine if the function is growth or decay.
+
+Given Points:
+- Point 1: (0, 3)
+- Point 2: (2, 192)
+
+To write an exponential function that passes through the given points, we'll use the general form of an exponential function:
+
+\[ f(x) = ab^x \]
+
+where \( a \) represents the initial value or the value of the function when \( x = 0 \), and \( b \) represents the base of the exponential function.
+
+1. Finding the value of \( a \):
+Using the point (0, 3), we have:
+
+\[ 3 = ab^0 \]
+
+Since any number raised to the power of 0 is equal to 1, we can simplify to:
+
+\[ 3 = a \cdot 1 \]
+\[ a = 3 \]
+
+Therefore, the value of \( a \) is 3.
+
+2. Finding the value of \( b \):
+Using the point (2, 192), we have:
+
+\[ 192 = 3b^2 \]
+
+Dividing both sides by 3:
+
+\[ 64 = b^2 \]
+
+Taking the square root of both sides:
+
+\[ b = \pm 8 \]
+
+Since exponential functions can't have a negative base, we'll take the positive value:
+
+\[ b = 8 \]
+
+Therefore, the exponential function that passes through the given points is:
+
+\[ f(x) = 3 \cdot 8^x \]
+
+To determine whether the function is growth or decay, we observe that the base \( b = 8 \) is greater than 1. Therefore, the function represents growth.
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
