@@ -78,6 +78,44 @@ Simplify the expressions using exponent rules.
 
 Solution: We can simplify inside the parentheses first. $2\sqrt{9}$ simplifies to $23 = 6$. Substituting this simplification back into the original expression gives us $4\left(6 - 5\right)$, which simplifies to $4(1) = 4$.
 
+24. $(1+2\sqrt{7})(5 + \sqrt{7})$
+
+**Solution:** We can use the distributive property (also known as the FOIL method) to expand this expression.
+
+First, we multiply the first terms in each binomial: $1 \cdot 5 = 5$.
+
+Next, we multiply the outer terms: $1 \cdot \sqrt{7} = \sqrt{7}$.
+
+Then, we multiply the inner terms: $2\sqrt{7} \cdot 5 = 10\sqrt{7}$.
+
+Finally, we multiply the last terms: $2\sqrt{7} \cdot \sqrt{7} = 2 \cdot 7 = 14$.
+
+Adding these results together, we get $5 + \sqrt{7} + 10\sqrt{7} + 14 = 19 + 11\sqrt{7}$.
+
+27. Find the area of the triangle given the following characteristics: $b = 10x$, $h = 4x^2$, $A = \frac{1}{2}bh$
+
+**Solution:** We can substitute the given values of $b$ and $h$ into the formula for the area of a triangle, which is $A = \frac{1}{2}bh$.
+
+Substituting $b = 10x$ and $h = 4x^2$ into the formula gives us $A = \frac{1}{2} \cdot 10x \cdot 4x^2 = 20x^3$.
+
+So, the area of the triangle is $20x^3$ square units.
+
+28. $\sqrt{-144}$
+
+**Solution:** The square root of a negative number is an imaginary number. The square root of -144 is equal to the square root of 144 times the square root of -1. The square root of 144 is 12, and the square root of -1 is denoted as $i$. So, $\sqrt{-144} = 12i$.
+
+29. $i^3$
+
+**Solution:** The power of $i$ cycles every four powers: $i^1 = i$, $i^2 = -1$, $i^3 = -i$, $i^4 = 1$, $i^5 = i$, and so on. So, $i^3 = -i$. Therefore, $9i^3 = 9(-i) = -9i$.
+
+30. $(6i - 8) + (-3i + 2)$
+
+**Solution:** We can combine like terms to simplify this expression. $6i - 3i = 3i$ and $-8 + 2 = -6$. So, $(6i - 8) + (-3i + 2) = 3i - 6$, or $3(-2 + i)$ in standard form.
+
+31. $4i(i+2)$
+
+**Solution:** We can distribute $4i$ to both terms inside the parentheses: $4i \cdot i = 4i^2$ and $4i \cdot 2 = 8i$. Remember that $i^2 = -1$, so $4i^2 = 4(-1) = -4$. Therefore, $4i(i+2) = -4 + 8i$, or $4(-1 + 2i)$ in standard form.
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
