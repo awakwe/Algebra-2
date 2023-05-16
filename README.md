@@ -116,6 +116,49 @@ So, the area of the triangle is $20x^3$ square units.
 
 **Solution:** We can distribute $4i$ to both terms inside the parentheses: $4i \cdot i = 4i^2$ and $4i \cdot 2 = 8i$. Remember that $i^2 = -1$, so $4i^2 = 4(-1) = -4$. Therefore, $4i(i+2) = -4 + 8i$, or $4(-1 + 2i)$ in standard form.
 
+
+34. $\frac{12}{3-i}$
+
+**Solution:** To simplify a complex fraction, we can multiply the numerator and the denominator by the conjugate of the denominator. The conjugate of $3-i$ is $3+i$. So, we multiply the fraction by $\frac{3+i}{3+i}$ to get $\frac{12(3+i)}{(3-i)(3+i)}$. The denominator simplifies to $3^2-(-i)^2 = 9-(-1) = 10$. So, the fraction simplifies to $\frac{6(3+i)}{5}$, or $3.6+1.2i$ in decimal form.
+
+35. $\sqrt{-2} \cdot \sqrt{-9}$
+
+**Solution:** The square root of a negative number is an imaginary number. The square root of -2 is $i\sqrt{2}$, and the square root of -9 is $3i$. So, $\sqrt{-2} \cdot \sqrt{-9} = i\sqrt{2} \cdot 3i = -3\sqrt{2}$. The negative sign comes from the fact that $i \cdot i = i^2 = -1$.
+
+36. $f(x) = -\sqrt{x} + 3 + 2$
+
+**Solution:**
+
+**Transformations:**
+
+* The negative sign in front of the square root function reflects the graph over the x-axis.
+* The "+3" inside the square root function shifts the graph 3 units to the left.
+* The "+2" outside the square root function shifts the graph 2 units up.
+
+To graph this function, start with the graph of $y = \sqrt{x}$, then apply the transformations in the order listed above.
+
+37. $f(x) = 2\sqrt{x} - 1 - 4$
+
+**Solution:**
+
+**Transformations:**
+
+* The "2" in front of the square root function vertically stretches the graph by a factor of 2.
+* The "-1" inside the square root function shifts the graph 1 unit to the right.
+* The "-4" outside the square root function shifts the graph 4 units down.
+
+To graph this function, start with the graph of $y = \sqrt{x}$, then apply the transformations in the order listed above.
+
+Note: For both functions, the transformations are applied in the order of reflection, horizontal shift, and then vertical shift.
+
+38. $\sqrt{x} + 3 = 5$
+
+**Solution:** To solve this equation, we first isolate the square root term by subtracting 3 from both sides of the equation: $\sqrt{x} = 5 - 3 = 2$. Then, we square both sides to eliminate the square root: $x = 2^2 = 4$.
+
+39. $3\sqrt{x} - 2 = 7$
+
+**Solution:** First, we isolate the square root term by adding 2 to both sides of the equation: $3\sqrt{x} = 7 + 2 = 9$. Then, we divide both sides by 3 to get $\sqrt{x} = \frac{9}{3} = 3$. Finally, we square both sides to eliminate the square root: $x = 3^2 = 9$.
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
