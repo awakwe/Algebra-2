@@ -518,6 +518,14 @@ Here is a number line representation of the number $\frac{1}{3}$:
 For more details, you can check the [Wolfram|Alpha result](https://www.wolframalpha.com/input?i=log27%283%29).
 
 
+
+1. **Rational Expressions**: [Introduction to Rational Expressions](https://www.youtube.com/watch?v=OdzH_G0abpQ) by Khan Academy
+2. **Multiplying and Dividing Rational Expressions**: [Multiplying and Dividing Rational Expressions](https://www.youtube.com/watch?v=1jO2wSpAoxA) by Mathispower4u
+3. **Adding and Subtracting Rational Expressions**: [Adding and Subtracting Rational Expressions](https://www.youtube.com/watch?v=Z5nU3-1K4SE) by Khan Academy
+4. **Solving Rational Equations**: [Solving Rational Equations](https://www.youtube.com/watch?v=2j5Ic2V7wq4) by The Organic Chemistry Tutor
+5. **Graphing Rational Functions**: [How to graph a rational function using 6 steps](https://www.youtube.com/watch?v=2vgZhrEs4tuk) by Brian McLogan
+
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
