@@ -470,6 +470,15 @@ $$b^p = t$$
 
 This is read as "$b$ raised to the power of $p$ equals $t$". It means the same thing as the original equation: "log base $b$ of $t$ equals $p$".
 
+The logarithm $\log_2 16$ is asking the question: "What power do we need to raise $2$ to in order to get $16$?"
+
+The answer to this is $4$, because $2^4 = 16$.
+
+Here is a visual representation of the number $4$:
+
+* * * *
+
+For more details, you can check the [Wolfram|Alpha result](https://www.wolframalpha.com/input?i=log2%2816%29).
 
 
 ## Quizzes
