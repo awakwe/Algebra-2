@@ -76,7 +76,7 @@ Simplify the expressions using exponent rules.
 
 22. $4\left(2\sqrt{9} - 5\right)$
 
-Solution: We can simplify inside the parentheses first. $2\sqrt{9}$ simplifies to $23 = 6$. Substituting this simplification back into the original expression gives us $4\left(6 - 5\right)$, which simplifies to $41 = 4$.
+Solution: We can simplify inside the parentheses first. $2\sqrt{9}$ simplifies to $23 = 6$. Substituting this simplification back into the original expression gives us $4\left(6 - 5\right)$, which simplifies to $4(1) = 4$.
 
 ## Quizzes
 
