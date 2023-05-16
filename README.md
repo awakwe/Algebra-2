@@ -381,6 +381,34 @@ $f(x) = 1 \cdot 6^x$
 To determine whether the function is growth or decay, we observe that the base $b = 6$ is greater than 1. Therefore, the function represents growth.
 
 
+
+The equation $3^{-2x + 10} = 27^{6x - 10}$ can be solved using the method of common base as follows:
+
+First, we need to express both sides of the equation in terms of the same base. We know that $3^3 = 27$, so we can rewrite $27$ as $3^3$. This gives us:
+
+$$3^{-2x + 10} = (3^3)^{6x - 10}$$
+
+Simplifying the right side of the equation gives us:
+
+$$3^{-2x + 10} = 3^{18x - 30}$$
+
+Since the bases are the same, we can equate the exponents:
+
+$$-2x + 10 = 18x - 30$$
+
+Solving this equation for $x$ gives us the real solution:
+
+$$x = 2$$
+
+Here is a plot of the equation, which confirms that $x = 2$ is the solution:
+
+![Plot](https://www6b3.wolframalpha.com/Calculate/MSP/MSP21018bad4bc426f06ac00002be2d5dc92bed2ai?MSPStoreType=image/png&s=13)
+
+For more details, you can check the [Wolfram|Alpha result](https://www.wolframalpha.com/input?i=solve+3%5E%28-2x+%2B+10%29+%3D+27%5E%286x+-+10%29).
+
+Please note that the equation also has complex solutions, but since we are dealing with real numbers, we only consider the real solution.
+
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
