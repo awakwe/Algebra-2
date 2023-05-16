@@ -288,6 +288,99 @@ $f(x) = 3 \cdot 8^x$
 To determine whether the function is growth or decay, we observe that the base $b = 8$ is greater than 1. Therefore, the function represents growth.
 
 
+
+ Write an exponential function for the graph that passes through the given points. Then determine if the function is growth or decay.
+
+Given Points:
+- Point 1: (0, 20)
+- Point 2: (2, 5)
+
+To write an exponential function that passes through the given points, we'll use the general form of an exponential function:
+
+$f(x) = ab^x$
+
+where $a$ represents the initial value or the value of the function when $x = 0$, and $b$ represents the base of the exponential function.
+
+1. Finding the value of $a$:
+Using the point (0, 20), we have:
+
+$20 = ab^0$
+
+Since any number raised to the power of 0 is equal to 1, we can simplify to:
+
+$20 = a \cdot 1$
+$a = 20$
+
+Therefore, the value of $a$ is 20.
+
+2. Finding the value of $b$:
+Using the point (2, 5), we have:
+
+$5 = 20b^2$
+
+Dividing both sides by 20:
+
+$\frac{1}{4} = b^2$
+
+Taking the square root of both sides:
+
+$b = \pm \frac{1}{2}$
+
+Since exponential functions can't have a negative base, we'll take the positive value:
+
+$b = \frac{1}{2}$
+
+Therefore, the exponential function that passes through the given points is:
+
+$f(x) = 20 \left(\frac{1}{2}\right)^x$
+
+To determine whether the function is growth or decay, we observe that the base $b = \frac{1}{2}$ is between 0 and 1. Therefore, the function represents decay.
+
+
+Write an exponential function for the graph that passes through the given points. Then determine if the function is growth or decay.
+
+Given Points:
+- Point 1: (0, 1)
+- Point 2: (3, 216)
+
+To write an exponential function that passes through the given points, we'll use the general form of an exponential function:
+
+$f(x) = ab^x$
+
+where $a$ represents the initial value or the value of the function when $x = 0$, and $b$ represents the base of the exponential function.
+
+1. Finding the value of $a$:
+Using the point (0, 1), we have:
+
+$1 = ab^0$
+
+Since any number raised to the power of 0 is equal to 1, we can simplify to:
+
+$1 = a \cdot 1$
+$a = 1$
+
+Therefore, the value of $a$ is 1.
+
+2. Finding the value of $b$:
+Using the point (3, 216), we have:
+
+$216 = 1 \cdot b^3$
+
+Simplifying:
+
+$b^3 = 216$
+
+Taking the cube root of both sides:
+
+$b = 6$
+
+Therefore, the exponential function that passes through the given points is:
+
+$f(x) = 1 \cdot 6^x$
+
+To determine whether the function is growth or decay, we observe that the base $b = 6$ is greater than 1. Therefore, the function represents growth.
+
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
