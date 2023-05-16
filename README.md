@@ -195,6 +195,49 @@ Now, let's plot these points on a graph and connect them to get the shape of the
 
 The graph of the function $f(x) = 3^x + 1$ should resemble an increasing curve that approaches the x-axis but never touches or crosses it. The point (0, 2) is the y-intercept of the graph.
 
+
+
+
+
+ Identify the characteristics and graph the following functions.
+
+ $f(x) = \log_{\frac{1}{2}}(x)$
+
+**Characteristics:**
+- Vertical Asymptote (VA): $x = 0$
+- x-intercept (X-Int): $x = 1$
+- Domain: $x > 0$
+- Range: All real numbers
+
+**Graph:**
+
+To graph the function, we can plot some points and draw the graph:
+
+- For $x = \frac{1}{8}$:
+  $f\left(\frac{1}{8}\right) = \log_{\frac{1}{2}}\left(\frac{1}{8}\right) = -3$
+
+- For $x = \frac{1}{4}$:
+  $f\left(\frac{1}{4}\right) = \log_{\frac{1}{2}}\left(\frac{1}{4}\right) = -2$
+
+- For $x = \frac{1}{2}$:
+  $f\left(\frac{1}{2}\right) = \log_{\frac{1}{2}}\left(\frac{1}{2}\right) = -1$
+
+- For $x = 1$:
+  $f(1) = \log_{\frac{1}{2}}(1) = 0$
+
+- For $x = 2$:
+  $f(2) = \log_{\frac{1}{2}}(2) = 1$
+
+- For $x = 4$:
+  $f(4) = \log_{\frac{1}{2}}(4) = 2$
+
+- For $x = 8$:
+  $f(8) = \log_{\frac{1}{2}}(8) = 3$
+
+By plotting these points and considering the vertical asymptote at $x = 0$, we can sketch the graph of the function $f(x) = \log_{\frac{1}{2}}(x)$.
+
+Remember to label the axes and indicate any asymptotes or intercepts on the graph.
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
