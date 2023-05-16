@@ -452,6 +452,15 @@ $$\log_3 12 = 6x$$
 
 This is read as "log base $3$ of $12$ equals $6x$". It means the same thing as the original equation: "$3$ raised to the power of $6x$ equals $12$".
 
+
+The equation $\log_8 x = y$ can be rewritten in exponential form as follows:
+
+The base of the logarithm $8$ becomes the base of the exponent, the result $y$ is the exponent, and $x$ is the result of the exponentiation. Therefore, the equation in exponential form is:
+
+$$8^y = x$$
+
+This is read as "8 raised to the power of $y$ equals $x$". It means the same thing as the original equation: "log base $8$ of $x$ equals $y$".
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
