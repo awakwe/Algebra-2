@@ -444,6 +444,14 @@ $$\log_b k = x$$
 This is read as "log base $b$ of $k$ equals $x$". It means the same thing as the original equation: "$b$ raised to the power of $x$ equals $k$".
 
 
+The equation $3^{6x} = 12$ can be rewritten in logarithmic form as follows:
+
+The base $3$ becomes the base of the logarithm, the exponent $6x$ is the result, and $12$ is the argument of the logarithm. Therefore, the equation in logarithmic form is:
+
+$$\log_3 12 = 6x$$
+
+This is read as "log base $3$ of $12$ equals $6x$". It means the same thing as the original equation: "$3$ raised to the power of $6x$ equals $12$".
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
