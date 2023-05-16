@@ -162,6 +162,7 @@ Note: For both functions, the transformations are applied in the order of reflec
 # Units 9 and 10: EXPONENTIAL & LOGARITHMIC FUNCTIONS
 
    [example video][https://youtu.be/H46QVUdbBn0]
+   [practice problem][https://www.ixl.com/math/algebra-2/graph-exponential-functions]
 
  Exponential Form & Logarithmic Form
 
