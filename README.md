@@ -480,6 +480,39 @@ Here is a visual representation of the number $4$:
 
 For more details, you can check the [Wolfram|Alpha result](https://www.wolframalpha.com/input?i=log2%2816%29).
 
+The logarithm $\log_{64} \frac{1}{4}$ is asking the question: "What power do we need to raise $64$ to in order to get $\frac{1}{4}$?"
+
+The answer to this is $-\frac{1}{3}$, because $64^{-\frac{1}{3}} = \frac{1}{4}$.
+
+Here is a number line representation of the number $-\frac{1}{3}$:
+
+![Number line](https://www6b3.wolframalpha.com/Calculate/MSP/MSP67912bcdde8c4fg40f400001di6f1i5092d9hfc?MSPStoreType=image/png&s=5)
+
+For more details, you can check the [Wolfram|Alpha result](https://www.wolframalpha.com/input?i=log64%281%2F4%29).
+
+
+
+The logarithm $\log_{\frac{1}{7}} \frac{1}{343}$ is asking the question: "What power do we need to raise $\frac{1}{7}$ to in order to get $\frac{1}{343}$?"
+
+The answer to this is $3$, because $\left(\frac{1}{7}\right)^3 = \frac{1}{343}$.
+
+Here is a visual representation of the number $3$:
+
+* * * *
+
+For more details, you can check the [Wolfram|Alpha result](https://www.wolframalpha.com/input?i=log%281%2F7%2C+1%2F343%29).
+
+
+The logarithm $\log_{27} 3$ is asking the question: "What power do we need to raise $27$ to in order to get $3$?"
+
+The answer to this is $\frac{1}{3}$, because $27^{\frac{1}{3}} = 3$.
+
+Here is a number line representation of the number $\frac{1}{3}$:
+
+![Number line](https://www6b3.wolframalpha.com/Calculate/MSP/MSP1201229c3h530hca6eeh00000h5a23h47g5a13bg?MSPStoreType=image/png&s=15)
+
+For more details, you can check the [Wolfram|Alpha result](https://www.wolframalpha.com/input?i=log27%283%29).
+
 
 ## Quizzes
 
