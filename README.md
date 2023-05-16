@@ -163,6 +163,7 @@ Note: For both functions, the transformations are applied in the order of reflec
 
    [example video][https://youtu.be/H46QVUdbBn0]
    [practice problem][https://www.ixl.com/math/algebra-2/graph-exponential-functions]
+   [caracteristics of function graph][https://youtu.be/woVwBmwhA2Y]
 
  Exponential Form & Logarithmic Form
 
