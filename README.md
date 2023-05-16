@@ -435,6 +435,13 @@ For more details, you can check the [Wolfram|Alpha result](https://www.wolframal
 
 Please note that the equation also has complex solutions, but since we are dealing with real numbers, we only consider the real solution.
 
+The equation $b^x = k$ can be rewritten in logarithmic form as follows:
+
+The base $b$ becomes the base of the logarithm, the exponent $x$ is the result, and $k$ is the argument of the logarithm. Therefore, the equation in logarithmic form is:
+
+$$\log_b k = x$$
+
+This is read as "log base $b$ of $k$ equals $x$". It means the same thing as the original equation: "$b$ raised to the power of $x$ equals $k$".
 
 
 ## Quizzes
