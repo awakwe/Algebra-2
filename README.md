@@ -409,6 +409,34 @@ For more details, you can check the [Wolfram|Alpha result](https://www.wolframal
 Please note that the equation also has complex solutions, but since we are dealing with real numbers, we only consider the real solution.
 
 
+The equation $4^{3-2x} = 64^x$ can be solved using the method of common base as follows:
+
+First, we need to express both sides of the equation in terms of the same base. We know that $4^3 = 64$, so we can rewrite $64$ as $4^3$. This gives us:
+
+$$4^{3-2x} = (4^3)^x$$
+
+Simplifying the right side of the equation gives us:
+
+$$4^{3-2x} = 4^{3x}$$
+
+Since the bases are the same, we can equate the exponents:
+
+$$3-2x = 3x$$
+
+Solving this equation for $x$ gives us the real solution:
+
+$$x = \frac{3}{5}$$
+
+Here is a plot of the equation, which confirms that $x = \frac{3}{5}$ is the solution:
+
+![Plot](https://www6b3.wolframalpha.com/Calculate/MSP/MSP353016hdfihgc217eeha00005f4a8g88d8g65d28?MSPStoreType=image/png&s=20)
+
+For more details, you can check the [Wolfram|Alpha result](https://www.wolframalpha.com/input?i=solve+4%5E%283-2x%29+%3D+64%5Ex).
+
+Please note that the equation also has complex solutions, but since we are dealing with real numbers, we only consider the real solution.
+
+
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
