@@ -159,6 +159,42 @@ Note: For both functions, the transformations are applied in the order of reflec
 
 **Solution:** First, we isolate the square root term by adding 2 to both sides of the equation: $3\sqrt{x} = 7 + 2 = 9$. Then, we divide both sides by 3 to get $\sqrt{x} = \frac{9}{3} = 3$. Finally, we square both sides to eliminate the square root: $x = 3^2 = 9$.
 
+# Units 9 and 10: EXPONENTIAL & LOGARITHMIC FUNCTIONS
+
+ Exponential Form & Logarithmic Form
+
+ Identify the characteristics and graph the following functions.
+
+ $f(x) = 3^x + 1$
+
+**Characteristics:**
+- Type: Growth
+- Domain: All real numbers
+- Range: All real numbers greater than or equal to 1
+
+**Graph:**
+
+To graph the function, we can plot a few points to get an idea of the shape of the graph. Let's choose some x-values and calculate the corresponding y-values:
+
+For $x = -2$:
+$f(-2) = 3^{-2} + 1 = \frac{1}{3^2} + 1 = \frac{1}{9} + 1 = \frac{10}{9}$
+
+For $x = -1$:
+$f(-1) = 3^{-1} + 1 = \frac{1}{3^1} + 1 = \frac{1}{3} + 1 = \frac{4}{3}$
+
+For $x = 0$:
+$f(0) = 3^0 + 1 = 1 + 1 = 2$
+
+For $x = 1$:
+$f(1) = 3^1 + 1 = 3 + 1 = 4$
+
+For $x = 2$:
+$f(2) = 3^2 + 1 = 9 + 1 = 10$
+
+Now, let's plot these points on a graph and connect them to get the shape of the exponential function $f(x) = 3^x + 1$. Remember to label the axes and indicate any asymptotes if applicable.
+
+The graph of the function $f(x) = 3^x + 1$ should resemble an increasing curve that approaches the x-axis but never touches or crosses it. The point (0, 2) is the y-intercept of the graph.
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
