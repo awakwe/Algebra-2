@@ -461,6 +461,17 @@ $$8^y = x$$
 
 This is read as "8 raised to the power of $y$ equals $x$". It means the same thing as the original equation: "log base $8$ of $x$ equals $y$".
 
+
+The equation $\log_b t = p$ can be rewritten in exponential form as follows:
+
+The base of the logarithm $b$ becomes the base of the exponent, the result $p$ is the exponent, and $t$ is the result of the exponentiation. Therefore, the equation in exponential form is:
+
+$$b^p = t$$
+
+This is read as "$b$ raised to the power of $p$ equals $t$". It means the same thing as the original equation: "log base $b$ of $t$ equals $p$".
+
+
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
