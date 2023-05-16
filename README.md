@@ -161,7 +161,7 @@ Note: For both functions, the transformations are applied in the order of reflec
 
 # Units 9 and 10: EXPONENTIAL & LOGARITHMIC FUNCTIONS
 
-   [example video][https://www.youtube.com/watch?v=H46QVUdbBn]
+   [example video][https://youtu.be/H46QVUdbBn0]
 
  Exponential Form & Logarithmic Form
 
