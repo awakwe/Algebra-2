@@ -610,6 +610,24 @@ Without knowing the value of $x$, we cannot simplify this expression further.
 
 
 
+
+The sum of the rational expressions $\frac{-3x}{x-3}$ and $\frac{4}{2x-6}$ is:
+
+$$\frac{-3x}{x-3} + \frac{4}{2x-6} = -\frac{3x}{x-3} + \frac{4}{2(x-3)}$$
+
+This is the simplified form of the sum of the two given rational expressions. Now, let's simplify further:
+
+1. **Identify Common Denominator:** The common denominator of the two fractions is $x-3$.
+
+2. **Rewrite the Second Fraction:** Rewrite the second fraction $\frac{4}{2x-6}$ as $\frac{2 \cdot 4}{2(x-3)}$ to have the common denominator.
+
+3. **Add the Fractions:** Now that the fractions have the same denominator, add the numerators: $-\frac{3x}{x-3} + \frac{2 \cdot 4}{2(x-3)}$.
+
+4. **Simplify the Numerator:** Simplify the numerator to get the final result.
+
+Without knowing the value of $x$, we cannot simplify this expression further.
+
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
