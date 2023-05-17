@@ -538,6 +538,21 @@ Here are the steps to multiply the rational expressions $\frac{m^2+8m+15}{a+2b}$
 This is the simplified form of the product of the two given rational expressions. It's important to note that we cannot simplify this expression further without knowing the values of $a$, $b$, and $m$.
 
 
+
+Here are the steps to multiply the rational expressions $\frac{6r+3}{r+6}$ and $\frac{r^2+9r+18}{2r+1}$:
+
+1. **Identify the Numerator and Denominator of Each Fraction:** The first fraction has $6r+3$ as its numerator and $r+6$ as its denominator. The second fraction has $r^2+9r+18$ as its numerator and $2r+1$ as its denominator.
+
+2. **Multiply the Numerators:** Multiply $(6r+3)$ and $(r^2+9r+18)$ together. This gives us $(6r+3)(r^2+9r+18)$ as the numerator of the product.
+
+3. **Multiply the Denominators:** Multiply $(r+6)$ and $(2r+1)$ together. This gives us $(r+6)(2r+1)$ as the denominator of the product.
+
+4. **Write the Product as a Single Fraction:** The product of the two fractions is then $\frac{(6r+3)(r^2+9r+18)}{(r+6)(2r+1)}$.
+
+This is the simplified form of the product of the two given rational expressions. It's important to note that we cannot simplify this expression further without knowing the value of $r$.
+
+
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
