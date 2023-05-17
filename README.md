@@ -628,6 +628,25 @@ This is the simplified form of the sum of the two given rational expressions. No
 Without knowing the value of $x$, we cannot simplify this expression further.
 
 
+
+The sum of the rational expressions $\frac{5}{x^2-x-6}$ and $\frac{4}{x^2+4x+4}$ is:
+
+$$\frac{5}{x^2-x-6} + \frac{4}{x^2+4x+4} = \frac{5}{-6 - x + x^2} + \frac{4}{4 + 4x + x^2}$$
+
+This is the simplified form of the sum of the two given rational expressions. Now, let's simplify further:
+
+1. **Identify Common Denominator:** The common denominator of the two fractions is $x^2-x-6$ and $x^2+4x+4$.
+
+2. **Rewrite the Fractions:** Rewrite the fractions as $\frac{5}{-6 - x + x^2}$ and $\frac{4}{4 + 4x + x^2}$ to have the common denominator.
+
+3. **Add the Fractions:** Now that the fractions have the same denominator, add the numerators.
+
+4. **Simplify the Numerator:** Simplify the numerator to get the final result.
+
+Without knowing the value of $x$, we cannot simplify this expression further.
+
+
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
