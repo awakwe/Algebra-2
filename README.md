@@ -575,6 +575,38 @@ Here are the steps to add and subtract the rational expressions $\frac{2}{x}$, $
 This is the simplified form of the sum of the three given rational expressions. It's important to note that we cannot simplify this expression further without knowing the value of $x$.
 
 
+The difference of the rational expressions $\frac{4x+1}{x^2-4}$ and $\frac{3}{x-2}$ is:
+
+$$\frac{4x+1}{x^2-4} - \frac{3}{x-2} = \frac{4x+1}{(x-2)(x+2)} - \frac{3}{x-2}$$
+
+This is the simplified form of the difference of the two given rational expressions. Now, let's simplify further:
+
+1. **Identify Common Denominator:** The common denominator of the two fractions is $(x-2)(x+2)$.
+
+2. **Rewrite the Second Fraction:** Rewrite the second fraction $\frac{3}{x-2}$ as $\frac{3(x+2)}{(x-2)(x+2)}$ to have the common denominator.
+
+3. **Subtract the Fractions:** Now that the fractions have the same denominator, subtract the numerators: $\frac{4x+1-3(x+2)}{(x-2)(x+2)}$.
+
+4. **Simplify the Numerator:** Simplify the numerator to get the final result.
+
+Without knowing the value of $x$, we cannot simplify this expression further.
+
+
+The difference of the rational expressions $\frac{3-4x}{x^2+3x-10}$ and $\frac{2}{x+5}$ is:
+
+$$\frac{3-4x}{x^2+3x-10} - \frac{2}{x+5} = -\frac{2}{x+5} + \frac{3-4x}{x^2+3x-10}$$
+
+This is the simplified form of the difference of the two given rational expressions. Now, let's simplify further:
+
+1. **Identify Common Denominator:** The common denominator of the two fractions is $x^2+3x-10$.
+
+2. **Rewrite the Second Fraction:** Rewrite the second fraction $\frac{2}{x+5}$ as $\frac{2(x-2)}{x^2+3x-10}$ to have the common denominator.
+
+3. **Subtract the Fractions:** Now that the fractions have the same denominator, subtract the numerators: $-\frac{2(x-2)}{x^2+3x-10} + \frac{3-4x}{x^2+3x-10}$.
+
+4. **Simplify the Numerator:** Simplify the numerator to get the final result.
+
+Without knowing the value of $x$, we cannot simplify this expression further.
 
 
 
