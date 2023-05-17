@@ -564,6 +564,18 @@ Here are the steps to divide the rational expressions $\frac{x}{x+2}$ and $\frac
 
 This is the simplified form of the quotient of the two given rational expressions. It's important to note that we cannot simplify this expression further without knowing the value of $x$.
 
+Here are the steps to add and subtract the rational expressions $\frac{2}{x}$, $-\frac{1}{4}$, and $\frac{3}{2x}$:
+
+1. **Identify Like Terms:** In this case, $\frac{2}{x}$ and $\frac{3}{2x}$ are like terms because they have the same variable part, $x$ in the denominator. The term $-\frac{1}{4}$ is a constant and does not have a variable part.
+
+2. **Add/Subtract Like Terms:** Add the coefficients of the like terms together. The coefficient of $\frac{2}{x}$ is $2$ and the coefficient of $\frac{3}{2x}$ is $\frac{3}{2}$. Adding these together gives $2 + \frac{3}{2} = \frac{7}{2}$, so the sum of these two terms is $\frac{7}{2x}$.
+
+3. **Combine the Results:** Combine the result from step 2 with the constant term $-\frac{1}{4}$. This gives the final result of $-\frac{1}{4} + \frac{7}{2x}$.
+
+This is the simplified form of the sum of the three given rational expressions. It's important to note that we cannot simplify this expression further without knowing the value of $x$.
+
+
+
 
 
 ## Quizzes
