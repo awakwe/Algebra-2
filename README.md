@@ -525,6 +525,18 @@ For more details, you can check the [Wolfram|Alpha result](https://www.wolframal
 4. **Solving Rational Equations**: [Solving Rational Equations](https://www.youtube.com/watch?v=2j5Ic2V7wq4) by The Organic Chemistry Tutor
 5. **Graphing Rational Functions**: [How to graph a rational function using 6 steps](https://www.youtube.com/watch?v=2vgZhrEs4tuk) by Brian McLogan
 
+Here are the steps to multiply the rational expressions $\frac{m^2+8m+15}{a+2b}$ and $\frac{7a+14b}{m+3}$:
+
+1. **Identify the Numerator and Denominator of Each Fraction:** The first fraction has $m^2+8m+15$ as its numerator and $a+2b$ as its denominator. The second fraction has $7a+14b$ as its numerator and $m+3$ as its denominator.
+
+2. **Multiply the Numerators:** Multiply $(m^2+8m+15)$ and $(7a+14b)$ together. This gives us $(7a+14b)(m^2+8m+15)$ as the numerator of the product.
+
+3. **Multiply the Denominators:** Multiply $(a+2b)$ and $(m+3)$ together. This gives us $(a+2b)(m+3)$ as the denominator of the product.
+
+4. **Write the Product as a Single Fraction:** The product of the two fractions is then $\frac{(7a+14b)(m^2+8m+15)}{(a+2b)(m+3)}$.
+
+This is the simplified form of the product of the two given rational expressions. It's important to note that we cannot simplify this expression further without knowing the values of $a$, $b$, and $m$.
+
 
 ## Quizzes
 
