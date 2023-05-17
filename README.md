@@ -552,6 +552,19 @@ Here are the steps to multiply the rational expressions $\frac{6r+3}{r+6}$ and $
 This is the simplified form of the product of the two given rational expressions. It's important to note that we cannot simplify this expression further without knowing the value of $r$.
 
 
+Here are the steps to divide the rational expressions $\frac{x}{x+2}$ and $\frac{x^2}{x^2+6x+8}$:
+
+1. **Identify the Numerator and Denominator of Each Fraction:** The first fraction has $x$ as its numerator and $x+2$ as its denominator. The second fraction has $x^2$ as its numerator and $x^2+6x+8$ as its denominator.
+
+2. **Reciprocal of the Second Fraction:** When dividing fractions, we multiply by the reciprocal of the second fraction. The reciprocal of $\frac{x^2}{x^2+6x+8}$ is $\frac{x^2+6x+8}{x^2}$.
+
+3. **Multiply the Fractions:** Multiply $\frac{x}{x+2}$ and $\frac{x^2+6x+8}{x^2}$. This gives us $\frac{x(x^2+6x+8)}{x^2(x+2)}$ as the result.
+
+4. **Simplify the Result:** The $x^2$ in the numerator and denominator cancel out, leaving us with $\frac{x^2+6x+8}{x(x+2)}$.
+
+This is the simplified form of the quotient of the two given rational expressions. It's important to note that we cannot simplify this expression further without knowing the value of $x$.
+
+
 
 ## Quizzes
 
